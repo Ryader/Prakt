@@ -1,0 +1,5 @@
+D:\Projects\PracticalWorkOnLoshkarev\Practical2Client\bin\Debug\Practical2Client.exe.config
+D:\Projects\PracticalWorkOnLoshkarev\Practical2Client\bin\Debug\Practical2Client.exe
+D:\Projects\PracticalWorkOnLoshkarev\Practical2Client\bin\Debug\Practical2Client.pdb
+D:\Projects\PracticalWorkOnLoshkarev\Practical2Client\obj\Debug\Practical2Client.exe
+D:\Projects\PracticalWorkOnLoshkarev\Practical2Client\obj\Debug\Practical2Client.pdb

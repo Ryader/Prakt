@@ -1,0 +1,6 @@
+D:\Projects\PracticalWorkOnLoshkarev\Practical1Client\bin\Debug\Practical1Client.exe.config
+D:\Projects\PracticalWorkOnLoshkarev\Practical1Client\bin\Debug\Practical1Client.exe
+D:\Projects\PracticalWorkOnLoshkarev\Practical1Client\bin\Debug\Practical1Client.pdb
+D:\Projects\PracticalWorkOnLoshkarev\Practical1Client\obj\Debug\Practical1Client.exe
+D:\Projects\PracticalWorkOnLoshkarev\Practical1Client\obj\Debug\Practical1Client.pdb
+D:\Projects\PracticalWorkOnLoshkarev\Practical1Client\obj\Debug\Practical1Client.csprojAssemblyReference.cache

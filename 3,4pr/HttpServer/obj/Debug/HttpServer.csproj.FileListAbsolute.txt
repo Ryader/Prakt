@@ -1,0 +1,6 @@
+D:\Projects\PracticalWorkOnLoshkarev\HttpServer\bin\Debug\HttpServer.exe.config
+D:\Projects\PracticalWorkOnLoshkarev\HttpServer\bin\Debug\HttpServer.exe
+D:\Projects\PracticalWorkOnLoshkarev\HttpServer\bin\Debug\HttpServer.pdb
+D:\Projects\PracticalWorkOnLoshkarev\HttpServer\obj\Debug\HttpServer.csprojAssemblyReference.cache
+D:\Projects\PracticalWorkOnLoshkarev\HttpServer\obj\Debug\HttpServer.exe
+D:\Projects\PracticalWorkOnLoshkarev\HttpServer\obj\Debug\HttpServer.pdb
