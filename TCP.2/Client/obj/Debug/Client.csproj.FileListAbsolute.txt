@@ -1,6 +1,0 @@
-E:\UDP-sending-a-file-master\2Tcp\Client\bin\Debug\Client.exe.config
-E:\UDP-sending-a-file-master\2Tcp\Client\bin\Debug\Client.exe
-E:\UDP-sending-a-file-master\2Tcp\Client\bin\Debug\Client.pdb
-E:\UDP-sending-a-file-master\2Tcp\Client\obj\Debug\Client.exe
-E:\UDP-sending-a-file-master\2Tcp\Client\obj\Debug\Client.pdb
-E:\UDP-sending-a-file-master\2Tcp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
